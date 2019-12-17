@@ -512,6 +512,14 @@ const workshops: Deployable[] = [
         launchURL: launcher + 'https://github.com/mcasalaina/epbnbascratchorg'
     },
     {
+        name: 'Einstein 予測ビルダーとNext Best Action',
+        shortname: 'epbnba_jp_scratchorg',
+        description:
+            "Einstein 予測ビルダーとEinstein Next Best Actionを使用して、AIの予測をアクションにつなげましょう！このハンズオンワークショップでは、Einstein 予測ビルダーを使ってAIによる予測を作成し、Einstein Next Best Actionのレコメンデーションルールでそれらの予測をアクションにつなげる方法を学びます。 本ワークショップではPCをご持参ください：実際にご自身のPCでAIの予測をレコメンデーションに変えてアクションにつなげる方法を理解していただけます。"",
+        docsURL: '',
+        launchURL: launcher + 'https://github.com/mcasalaina/epbnba_jp_scratchorg'
+    },
+    {
         name: 'Einstein Next Best Action',
         shortname: 'nba_only',
         description:
