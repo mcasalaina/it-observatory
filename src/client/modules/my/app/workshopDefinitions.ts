@@ -535,6 +535,14 @@ const workshops: Deployable[] = [
         launchURL: launcher + 'https://github.com/mcasalaina/medicalappointments'
     },
     {
+        name: 'Einstein Prediction Builder Medical Appointments Dataset Japanese',
+        shortname: 'medicalappointments_jp',
+        description:
+            "このワークショップでは、Einstein予測ビルダーを使って診療予約データで予測モデルを作る方法を体験していただけます",
+        docsURL: '',
+        launchURL: launcher + 'https://github.com/mcasalaina/medicalappointments_jp'
+    },
+    {
         name: 'machine setup',
         shortname: 'machine_setup',
         description: 'cheats for setting up all the local prerequisites for lwc + heroku workshops',
