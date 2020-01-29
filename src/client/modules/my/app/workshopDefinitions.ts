@@ -535,7 +535,7 @@ const workshops: Deployable[] = [
         launchURL: launcher + 'https://github.com/mcasalaina/medicalappointments'
     },
     {
-        name: '"Einstein予測ビルダー診療データデモ',
+        name: 'Einstein予測ビルダー診療データデモ',
         shortname: 'medicalappointments_jp',
         description:
             "このワークショップでは、Einstein予測ビルダーを使って診療予約データで予測モデルを作る方法を体験していただけます",
